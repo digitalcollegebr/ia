@@ -1,9 +1,3 @@
-Claro! Aqui está uma sugestão de conteúdo para o README.md do repositório IA-Digital-College, com uma estrutura profissional, acessível e convidativa:
-
-⸻
-
-
-
 # 🤖 IA Digital College
 
 Este repositório reúne todo o ecossistema de Inteligência Artificial da **Digital College**: ferramentas, templates de agentes, documentações, exemplos práticos, materiais de cursos e muito mais.
@@ -53,7 +47,3 @@ Para dúvidas ou sugestões, entre em contato pelo e-mail daniel@digitalcollege.
 🧠 Licença
 
 Este projeto está licenciado sob a MIT License.
-
----
-
-Se quiser, posso colocar esse conteúdo diretamente no arquivo dentro da estrutura criada. Deseja que eu faça isso?
